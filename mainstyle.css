@@ -1,0 +1,25 @@
+body {
+    background-color: rgba(184, 147, 69, 0.637);
+}
+.serif {
+    font-family: "Times New Roman", Times, serif;
+}
+.sansserif {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+
+h1 { color: black;}
+p {Color: black;}
+
+
+/* Links */
+
+
+a {color: black;}
+
+a:link{color: black;}
+
+a:hover {color: rgba(230, 29, 186, 0.212);}
+
+a:active {color: white;}

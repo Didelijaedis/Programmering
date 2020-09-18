@@ -1,0 +1,30 @@
+body {
+background-color: pink;
+}
+
+h1 {
+    color: yellowgreen;
+}
+
+p {
+    color: yellowgreen;
+}
+
+
+/* Farver til links*/
+
+a {
+    color: yellowgreen;
+}
+
+a:link {
+    color: yellowgreen;
+}
+
+a:hover {
+    color: white;
+}
+
+a:active {
+    color: purple;
+}
