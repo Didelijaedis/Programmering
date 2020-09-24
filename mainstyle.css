@@ -23,3 +23,9 @@ a:link{color: black;}
 a:hover {color: rgba(230, 29, 186, 0.212);}
 
 a:active {color: white;}
+
+@media (min-aspect-ratio: 8/5) {}
+
+@media (max-aspect-ratio: 3/2) {}
+
+@media (aspect-ratio: 1/1) {}
