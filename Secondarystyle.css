@@ -19,6 +19,7 @@ a {
 
 a:link {
     color: yellowgreen;
+    text-decoration: none;
 }
 
 a:hover {
